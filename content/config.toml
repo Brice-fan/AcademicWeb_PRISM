@@ -1,24 +1,24 @@
 [site]
-title = "Jiale Liu"
-description = "PhD student at the University of Example."
+title = "Bing Fan"
+description = "PhD Candidate at the Purdue University."
 favicon = "/favicon.svg"
-last_updated = "November 18, 2025"
+last_updated = "Feb 21, 2026"
 
 [author]
-name = "Jiale Liu"
-title = "PhD Student"
-institution = "University of Example"
+name = "Bing Fan"
+title = "PhD Candidate of Economics"
+institution = "Purdue University"
 avatar = "/bio.jpg"
 
 [social]
 # Contact information (leave blank or delete to hide)
 
-email = "john.doe@example.com"
-location = "City, Country"
+email = "fan399@purdue.edu"
+location = "Lafayette, IN, United States"
 location_url = "https://maps.google.com"
 location_details = [
-  "Room 123, Science Building,",
-  "University Avenue, City, Country"
+  "KRAN 320, Business School,",
+  "Purdue University, West Lafayette, IN"
 ]
 google_scholar = "https://scholar.google.com"
 orcid = "https://orcid.org"
@@ -39,28 +39,34 @@ target = "about"
 href = "/"
 
 [[navigation]]
-title = "Publications"
+title = "Research"
 type = "page"
 target = "publications"
 href = "/publications"
 
 [[navigation]]
-title = "Teaching"
+title = "Blogs"
 type = "page"
-target = "teaching"
-href = "/teaching"
+target = "blogs"
+href = "/blogs"
+
+# [[navigation]]
+# title = "Awards"
+# type = "page"
+# target = "awards"
+# href = "/awards"
 
 [[navigation]]
-title = "Awards"
+title = "Misc"
 type = "page"
-target = "awards"
-href = "/awards"
+target = "miscellaneous"
+href = "/miscellaneous"
 
-[[navigation]]
-title = "Services"
-type = "page"
-target = "services"
-href = "/services"
+#[[navigation]]
+#title = "Services"
+#type = "page"
+#target = "services"
+#href = "/services"
 
 [[navigation]]
 title = "CV"

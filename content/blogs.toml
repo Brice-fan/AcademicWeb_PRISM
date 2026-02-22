@@ -1,0 +1,36 @@
+type = "text"
+title = "Blogs"
+description = "Research notes and short essays by topic."
+source = "blogs.md"
+
+#type = "card"
+#title = "Blogs"
+#description = "Research notes and short essays by topic."
+
+#[[items]]
+#title = "BLP"
+#subtitle = "Topic"
+#date = "Updated Feb 2026"
+#content = "Industrial organization notes using the Berry-Levinsohn-Pakes framework. Add your BLP posts under this topic."
+#tags = ["BLP", "IO", "Demand Estimation"]
+
+#[[items]]
+#title = "BLP Blog 01"
+#subtitle = "BLP"
+#date = "2026-02"
+#content = "Post summary placeholder: motivation, model setup, and identification intuition."
+#tags = ["BLP", "Methods", "Notes"]
+
+#[[items]]
+#title = "Microeconomics"
+#subtitle = "Topic"
+#date = "Updated Feb 2026"
+#content = "Microeconomics notes, including theory, empirical methods, and reading reflections."
+#tags = ["Microeconomics", "Theory", "Empirical"]
+
+#[[items]]
+#title = "Microeconomics Blog 01"
+#subtitle = "Microeconomics"
+#date = "2026-02"
+#content = "Post summary placeholder: key ideas, assumptions, and takeaways."
+#tags = ["Microeconomics", "Teaching", "Notes"]

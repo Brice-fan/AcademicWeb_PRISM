@@ -1,0 +1,4 @@
+type = "text"
+title = "Miscellaneous"
+description = "Topic-organized notes and blog PDFs."
+source = "miscellaneous.md"

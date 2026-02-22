@@ -1,26 +1,37 @@
 ## Education
 
-**The University of Example**, PhD in Natural Science, *2025 - Present*
-- Research focus: Mathematical Principles of Natural Philosophy
-- Supervisor: Prof. Advisor One and Dr. Advisor Two
+**Purdue University**, PhD in Economics, *2023 - Present*
+- Research focus: Empirical IO, Applied Econometrics
+- Supervisor: Prof. Stephen Martin, Prof. Ting Zhu and Dr. Johnathon McClure
 
-**The University of Example**, BSc in Natural Science, *2021 - 2025*
-- Graduated with First Class Honours
+**Nankai University**, M.S. in Economics, *2020 - 2023*
+- Supervisor: Prof. Lei Li
+
+**Huazhong Agricultural University**, B.S. in Economics, *2016 - 2020*
 
 ## Experience
+**Research Assistant**
+Department of Economics, Purdue
+*2023 - Present*
 
-**Example Role**
-Company/Institution
-*2023 - 2024*
-- Description of key responsibilities and achievements.
-- Utilized skills to solve problems.
+**Research Assistant**
+China Development Research Foundation
+*2020 - 2022*
+- Data analysis and reports drafting.
+
+**Research Assistant**
+School of Advanced Agricultural Sciences, Peking University
+*2019*
+- Survey Data collecting.
 
 ## Skills
 
-- **Programming:** Python, C++, MATLAB, LaTeX
-- **Data Analysis:** Pandas, NumPy, SciPy
-- **Languages:** English (Native), French (Fluent)
+- **Programming:** Python, MATLAB, LaTeX
+- **Data Analysis:** SQL
 
-## Awards & Honors
+## Teaching
 
-- **First Prize in Example Competition** - Committee of Example (*2024*)
+- **Instructor** - Econ 251 Microeconomics, Purdue, 2026 Spring
+- **Teaching Assistant** - Econ 252 Macroeconomics, Purdue, 2025 Fall
+- **Teaching Assistant** - Econ 251 Microeconomics, Purdue, 2024 Fall
+- **Teaching Assistant** - Econ 390 Development Economics, Purdue, 2024 Spring
